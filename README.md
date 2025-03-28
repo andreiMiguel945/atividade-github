@@ -14,3 +14,4 @@ O repositório foi criado pelo seguinte objetivo, que é sobre a atividade dentr
 
 ### Resultado:
 Verificar na branch se as alterações foram incorporadas corretamente, contendo no final 4 branchs verificadas e funcionando corretamente. Assim, finalizando a experiência.
+uma simples alteração
